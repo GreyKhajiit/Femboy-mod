@@ -1,0 +1,7 @@
+﻿femboy = {
+	index = 690
+	child_inheritance_sex = male
+		good = yes
+		ruler_designer_cost = -200
+		birth =  100
+}		
