@@ -1,8 +1,6 @@
-version="1.0"
+version="0.0.1"
 tags={
 	"Graphics"
-	"Gameplay"
 }
-name="femboy"
-supported_version="1.3.0"
-remote_file_id="2421550576"
+name="Femboy Mod 2.0"
+supported_version="1.4.4"
