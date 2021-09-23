@@ -21,7 +21,7 @@ femboy_beard = {
 		dna_modifiers = {
 			accessory = {
 				mode = replace
-				geme = gene_beard
+				gene = gene_beard
 				template = no_beard
 				value = 1.0
 			}
