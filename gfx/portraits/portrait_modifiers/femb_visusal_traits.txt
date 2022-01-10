@@ -1,29 +1,18 @@
-﻿femboy_body_hair = {
+﻿femboy = {
 	usage = game 
-	femboy_body_hair = {
+	femboy = {
 		dna_modifiers = {
-			 mode = replace 
-			gene = gene_body_hair
-			value = 0.0
-		}
-		weight = {
-			 base =  0
-			modifier = { 
-				add = 100 
-				has_trait = femboy  
-			}
-		}
-	}
-}
-femboy_beard = {
-	usage = game
-	femboy_beard = {
-		dna_modifiers = {
+
+				mode = modify 
+				gene = gene_body_hair
+				template = body_hair_sparse
+				value = {0.0 , 0.0}
+
 			accessory = {
-				mode = replace
+				mode = modify
 				gene = gene_beard
 				template = no_beard
-				value = 1.0
+				value = 0.0
 			}
 		}
 		weight = {
